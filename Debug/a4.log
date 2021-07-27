@@ -1,0 +1,9 @@
+﻿  Main.cpp
+X:\Documents\cs 340\a4\Main.cpp(241,23): warning C4018: '<': signed/unsigned mismatch
+X:\Documents\cs 340\a4\Main.cpp(252,23): warning C4018: '<': signed/unsigned mismatch
+X:\Documents\cs 340\a4\Main.cpp(318,27): warning C4018: '<': signed/unsigned mismatch
+X:\Documents\cs 340\a4\Main.cpp(383,27): warning C4018: '<': signed/unsigned mismatch
+X:\Documents\cs 340\a4\Main.cpp(630,27): warning C4018: '<': signed/unsigned mismatch
+X:\Documents\cs 340\a4\Main.cpp(435): warning C4715: 'findOnGrid': not all control paths return a value
+X:\Documents\cs 340\a4\Main.cpp(568): warning C4715: 'getScore': not all control paths return a value
+  a4.vcxproj -> X:\Documents\cs 340\a4\Debug\a4.exe
